@@ -1,3 +1,4 @@
+//task6
 #include <iostream>
 #include <stdio.h>
 #include <Windows.h>
